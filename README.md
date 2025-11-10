@@ -10,6 +10,14 @@
 
 ---
 
+## See It In Action
+
+![DoodStream Easy Video Uploader - App Screenshot](./123.png)
+
+*The intuitive interface makes uploading videos to DoodStream effortless. Configure your settings, select your videos, and let the app handle the rest.*
+
+---
+
 ## Why Choose DoodStream Easy Video Uploader?
 
 ### ⚡ Lightning Fast Performance
